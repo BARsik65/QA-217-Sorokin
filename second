@@ -12,7 +12,7 @@
     // используйте метод ajax для разрешения асинхронных вызовов, которые не будут блокировать загрузку страницы
     $.ajax(settings).done(function (response) {
       console.log(response);
-      $("#surfheight").append(response.surfreport.conditions);
+      $("#surfheight").appefhfnfnfnd(response.surfreport.conditions);
     });
     </script>
 </head>
