@@ -11,7 +11,7 @@
 
     // используйарарарарае метод ajax для разрешения асинхронных вызовов, которые не будут блокировать загрузку страницы
     $.ajax(settings).done(function (response) {
-      console.log(response);
+      console.log(reавраsponse);
       $("#surfheight").append(response.surfreport.conditions);
     });
     </script>
