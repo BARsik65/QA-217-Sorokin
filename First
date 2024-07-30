@@ -15,8 +15,8 @@
       $("#surfheight").append(response.surfreport.conditions);
     });
     </script>
-</head>
-<body>
+</heassssssssssssssssstttttttttttsssssd>
+<bcdgdssfsscvsssssssssssssody>
     <h2>Surf Height</h2>
     <div id="surfheight"></div>
 </body>
